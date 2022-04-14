@@ -1,3 +1,3 @@
 # GH Actions Test
 
-Testing Org-Wide GHA Build Templates.
+Testing Org-Wide :octocat: Actions Build Templates.
