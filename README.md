@@ -1,3 +1,3 @@
 # GH Actions Test
 
-Testing Org-Wide GH Actions Templates.
+Testing Org-Wide GHA Templates.
