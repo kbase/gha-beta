@@ -1,3 +1,3 @@
 # GH Actions Test
 
-Testing Org-Wide GitHub Actions Templates.
+Testing Org-Wide GHA Build Templates.
